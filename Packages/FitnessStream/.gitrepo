@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@gitlab.com:BrightDigit/FitnessStream.git
+	branch = fitness-on-demand
+	commit = d18eaeca373e220d7d9ebba40a1d54a0217329a7
+	method = merge
+	cmdver = 0.4.6
+	parent = 4ce5dfbde9988602933cb094711dcd536fc1007f

@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:brightdigit/Prch.git
+	branch = fitness-on-demand
+	commit = 62b5938cde199f51ce0993dfcfe16d9b363d5681
+	parent = dc4230f579719adf39f5c305d3f776aa3d2ccaab
+	method = merge
+	cmdver = 0.4.6
